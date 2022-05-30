@@ -31,7 +31,7 @@ text-align: center;
   }
   .topnav {
     font-family:  Raleway;
-    background: linear-gradient(31deg, #ffaa00, #00eaff, #ffaa00, #00eaff, #ffaa00, #00eaff, #ffaa00);
+    background: linear-gradient(60deg, #0000ff, #d35ce2, #000000, #0704ab, #5ad6f5, #ffaa00, #012389);
   }
   .topnav a.active {
     background-color: #2f00ff;

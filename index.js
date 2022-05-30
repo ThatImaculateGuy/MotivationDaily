@@ -13,3 +13,4 @@ if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigat
   if (device == "mobile") {
     device.setAttribute('href', 'mobile.css');
   }
+ 
