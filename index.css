@@ -9,8 +9,10 @@ text-align: center;
 }
 .topnav {
     background-color: #333;
-    overflow: hidden;
+    overflow: scroll;
     font-family: Raleway;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 999px;
   }
   .topnav a {
     float: left;
