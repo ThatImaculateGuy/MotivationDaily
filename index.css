@@ -35,7 +35,7 @@ text-align: center;
   }
   .topnav a.active {
     background-color: #2f00ff;
-    color: rgb(253, 253, 253);
+    color: rgb(253, 253, 253); 
     font-family: Raleway;
   }
   .webpage {
