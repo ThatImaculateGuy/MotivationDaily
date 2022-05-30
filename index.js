@@ -1,3 +1,5 @@
+
+console.log(";P")
 var device;
 if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
     // true for mobile device
@@ -10,6 +12,4 @@ if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigat
   }
   if (device == "mobile") {
     device.setAttribute('href', 'mobile.css');
-  }else {
-    
   }
