@@ -28,7 +28,7 @@ text-align: center;
   }
   .topnav {
     font-family:  Raleway, Lato;
-    background-color: palegoldenrod
+    background: linear-gradient(31deg, #ffaa00, #00eaff, #ffaa00, #00eaff, #ffaa00, #00eaff, #ffaa00);
   }
   .topnav a.active {
     background-color: #2f00ff;
